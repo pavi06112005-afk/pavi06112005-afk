@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Pavishanth Sujeevan
+AI and Data Science Undergraduate from Sri Lanka
+Java Python GitHub JavaScript MySQL
+Alt Text
+Pavishanth Sujeevan
 
-<!--
-**pavi06112005-afk/pavi06112005-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning
+Learning
 
-Here are some ideas to get you started:
+Programming Languages
+skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools and DB
+skills
+
+
+
+📈 GitHub Stats
+pavi06112005-afk
+
+
+
+📫 Connect With Me
+pavi06112005-afk
